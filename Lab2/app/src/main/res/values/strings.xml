@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button_text">Call custom app</string>
+</resources>

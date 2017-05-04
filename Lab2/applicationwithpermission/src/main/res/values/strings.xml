@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application with permission</string>
+    <string name="description_for_permission">Description for permission</string>
+    <string name="custom_permission">Custom permission</string>
+</resources>
